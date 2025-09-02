@@ -27,9 +27,3 @@ Con un enfoque en **calidad, adaptabilidad y el uso de tecnologías de vanguardi
 - Modern web & mobile applications  
 
 ---
-
-## 📫 Contact  
-✉️ info@nil-point.com  
-🌐 [www.nil-point.com](http://www.nil-point.com)  
-
----
