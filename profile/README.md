@@ -1,4 +1,4 @@
-# nil-point
+# Nil Point
 
 **Minimal software solutions, maximum impact.**
 
